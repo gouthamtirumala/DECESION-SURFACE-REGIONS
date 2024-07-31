@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 from matplotlib.colors import ListedColormap
 
 
-image_path = (r"C:\Users\HP\OneDrive\Desktop\inno12.png")  # Replace with your actual PNG image file path
+image_path = (r"inoopng.png")  # Replace with your actual PNG image file path
 
 # Specify the desired width and height
 st.image(image_path, width=400)
